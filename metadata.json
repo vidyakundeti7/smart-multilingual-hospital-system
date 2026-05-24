@@ -1,0 +1,6 @@
+{
+  "name": "Smart Multilingual Hospital System",
+  "description": "Interactive smart multilingual hospital system with appointment scheduling, live queue tracking, symptom assistant, medicine billing, blood donation database, and Java source code exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
