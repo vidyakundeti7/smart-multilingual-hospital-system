@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Smart Multilingual Hospital Management System
 
-# Run and deploy your AI Studio app
+A modern AI-powered hospital management system designed to improve healthcare operations with multilingual support, emergency response handling, smart appointment booking, online billing, and patient management.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/1396b775-5543-443c-b079-2018ab49e909
+- Smart Appointment Booking
+- Emergency Patient Handling
+- Online Billing & Payments
+- Ambulance Tracking
+- Blood Donation Management
+- Health Reports Dashboard
+- Multi-language Support
+- Patient & Admin Dashboards
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- TypeScript
+- React
+- Vite
+- Bootstrap
+- MySQL
+- Apache Tomcat
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+1. Install dependencies
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
